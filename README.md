@@ -27,8 +27,6 @@ Juntamente com o Github Actions, pude aprender como configurar e fazer deploy de
 ### **React**
 Pude praticar o uso de hooks e a implementação de rotas (react-router-dom).
 
----
-
 ## Acesse o projeto finalizado
 [Link in Bio](https://rhnrod.github.io/link-in-bio/)
 
