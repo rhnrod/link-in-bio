@@ -11,11 +11,11 @@ Resolvi fazer este agregador para testar meus conhecimentos com React.
 <img src='src/assets/link-in-bio__PRINT.jpg'>
 </p>
 
-## Stack utilizada
+## 🧰 Stack utilizada
 
 **Front-end:** React, TailwindCSS
 
-## Aprendizados
+## 📚 Aprendizados
 
 Neste projeto me dediquei especialmente a compreender o funcionamento da biblioteca React, mas também aprendi algumas coisas novas:
 ### **Git** e **Github**
@@ -27,7 +27,7 @@ Juntamente com o Github Actions, pude aprender como configurar e fazer deploy de
 ### **React**
 Pude praticar o uso de hooks e a implementação de rotas (react-router-dom).
 
-## Acesse o projeto finalizado
+## 🔗 Acesse o projeto finalizado
 [Link in Bio](https://rhnrod.github.io/link-in-bio/)
 
 Feito por **Rhuan Emanuel**. 👨‍💻
