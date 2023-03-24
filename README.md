@@ -12,7 +12,12 @@ Resolvi fazer este agregador para testar meus conhecimentos com React.
 
 ## Aprendizados
 
-Neste proejto me dediquei especialmente a compreender o funcionamento da biblioteca React, mas também aprendi algumas coisas novas:
-* **Git** e **Github**: Pude aprender a melhor utilizar estas ferramentas, e aprender um pouco sobre Integração Continua (CI).
-* **Vite**: Juntamente com o Github Actions, pude aprender como configurar e fazer deploy de um projeto criado em Vite.
-* **React**: Pude praticar o uso de hooks e a implementação de rotas (react-router-dom).
+Neste projeto me dediquei especialmente a compreender o funcionamento da biblioteca React, mas também aprendi algumas coisas novas:
+### **Git** e **Github**
+Pude aprender a melhor utilizar estas ferramentas, e aprender um pouco sobre Integração Continua (CI).
+
+#### **Vite**
+Juntamente com o Github Actions, pude aprender como configurar e fazer deploy de um projeto criado em Vite.
+
+#### **React**
+Pude praticar o uso de hooks e a implementação de rotas (react-router-dom).
