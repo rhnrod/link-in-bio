@@ -1,4 +1,4 @@
-name: Deploy
+name: Deplox
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
           path: ./dist
 
   deploy:
-    name: Deploy
+    name: Deplox
     needs: build
     runs-on: ubuntu-latest
     if: github.ref == 'refs/head/main'
