@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Poppins', sans-serif;
+  --light-color: #fff;
+  --dark-color: #282828;
+  --bg-url-dark: url(./assets/bg-dark.jpg);
+  --bg-url-dark-mob: url(./assets/bg-dark_MOB.jpg);
+  --bg-url-light: url(./assets/bg-light.jpg);
+  --bg-url-light-mob: url(./assets/bg-light_MOB.jpg);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg-url-light) no-repeat top center/cover;
+  color: var(--dark-color);
+}
+
+html.dark {
+  background: var(--bg-url-dark) no-repeat top center/cover;
+  color: var(--light-color);
+}
+
+div a.dark {
+font-size: 50px;
+}
+
+@media screen and (max-width: 768px) {
+ html {
+    background: var(--bg-url-light-mob) no-repeat top center/cover;
+  }
+ 
+ html.dark {
+    background: var(--bg-url-dark-mob) no-repeat top center/cover;
+  }
+}
